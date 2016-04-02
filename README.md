@@ -1,5 +1,5 @@
 # Introducción a CartoDB
-![CartoDB Logo](/img/logo.png =100x100)
+<img src="/img/logo.png" width="100" height="100">
 
 ## Cursos y tutoriales
 
