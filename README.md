@@ -72,14 +72,14 @@
 
 ### Bl.ocks
 
-* [*Oriol*](http://bl.ocks.org/oriolbx).
-* [*Ernesto*](http://bl.ocks.org/ernesmb).
-* [*Jorge*](http://bl.ocks.org/jsanz).
-* [*Carla*](http://bl.ocks.org/iriberri).
-* [*Andrew*](http://bl.ocks.org/andrewxhill).
-* [*Javier Santana*](http://bl.ocks.org/javisantana).
-* [*Javier Álvarez*](http://bl.ocks.org/xavijam).
-* [*Raúl*](http://bl.ocks.org/rochoa).
+* [Oriol](http://bl.ocks.org/oriolbx).
+* [Ernesto](http://bl.ocks.org/ernesmb).
+* [Jorge](http://bl.ocks.org/jsanz).
+* [Carla](http://bl.ocks.org/iriberri).
+* [Andrew](http://bl.ocks.org/andrewxhill).
+* [Javier Santana](http://bl.ocks.org/javisantana).
+* [Javier Álvarez](http://bl.ocks.org/xavijam).
+* [Ramiro](http://bl.ocks.org/ramiroaznar).
 
 
 
