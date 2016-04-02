@@ -42,7 +42,7 @@
 ### Javascript
 
 * [*Javascript*](https://www.codecademy.com/learn/javascript) de **Codecademy**.
-* [*Learn Javascript*](https://www.codeschool.com/learn/javascript) de **Udemy**.
+* [*Learn Javascript*](https://www.codeschool.com/learn/javascript) de **Code School**.
 * [*Eloquent Javascript*](https://www.udemy.com/understand-javascript/) de **Udemy** (de pago, puedes ver las 3 primeras horas y media [aquí](https://www.youtube.com/watch?v=Bv_5Zv5c-Ts)).
 * *Javascript para Pogramadores GIS: Módulos* [*I*](https://www.youtube.com/watch?v=_qFvPJHGuCw), [*II*](https://www.youtube.com/watch?v=UEQpIkrQv78), [*III*](https://www.youtube.com/watch?v=1kVJDyx5FK8),  [*IV*](https://www.youtube.com/watch?v=UQXEmqSOQK8), [*V*](https://www.youtube.com/watch?v=TW7lr0QDNd0) y [*APIs de Mapas*](https://www.youtube.com/watch?v=23X7GqLi5oQ) de **Geospatial Training**.
 
@@ -50,7 +50,7 @@
 
 ### Leaflet
 
-* [*Leaflet*](http://leafletjs.com/).
+* [*Leaflet*](http://leafletjs.com/), web oficial.
 * [*Tutoriales y ejemplos*](http://leafletjs.com/examples.html).
 * [*Leaflet: Make a Web Map!*](http://maptimeboston.github.io/leaflet-intro/) de **Map Time Boston**.
 * [*Leaflet Provider Demo*](http://leaflet-extras.github.io/leaflet-providers/preview/), para testear basemaps.
