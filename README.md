@@ -37,7 +37,7 @@
 
 ### CartoCSS
 
-* [*CartoCSS*](https://www.mapbox.com/tilemill/docs/manual/carto/) de **Mapbox**.
+* [CartoCSS](https://www.mapbox.com/tilemill/docs/manual/carto/) de **Mapbox**.
 
 ### Javascript
 
@@ -50,15 +50,15 @@
 
 ### Leaflet
 
-* [*Leaflet*](http://leafletjs.com/), web oficial.
-* [*Tutoriales y ejemplos*](http://leafletjs.com/examples.html).
+* [Leaflet](http://leafletjs.com/), web oficial.
+* [Tutoriales y ejemplos](http://leafletjs.com/examples.html).
 * [*Leaflet: Make a Web Map!*](http://maptimeboston.github.io/leaflet-intro/) de **Map Time Boston**.
-* [*Leaflet Provider Demo*](http://leaflet-extras.github.io/leaflet-providers/preview/), para testear basemaps.
+* [Leaflet Provider Demo](http://leaflet-extras.github.io/leaflet-providers/preview/), para testear basemaps.
 
 ### Dónde encontrar ayuda
 
-* [*GIS Stack Exchange*](http://gis.stackexchange.com/questions/tagged/cartodb) con el tag "cartodb" (junto a otros más específicos como "cartodbjs", "sql", "postgis", "cartocss"...).
-* [*Grupo de Google*](https://groups.google.com/forum/#!forum/cartodb).
+* [GIS Stack Exchange](http://gis.stackexchange.com/questions/tagged/cartodb) con el tag "cartodb" (junto a otros más específicos como "cartodbjs", "sql", "postgis", "cartocss"...).
+* [Grupo de Google](https://groups.google.com/forum/#!forum/cartodb).
 
 ### Bonus
 
@@ -68,7 +68,7 @@
 * [*CartoDB Basemaps*](http://bl.ocks.org/Xatpy/raw/854297419bd7eb3421d0/), lista y visualización de los mapas propios de CartoDB.
 * [*mapschool: a free introduction to geo*](http://mapschool.io/).
 * [*Free your maps from Web Mercator*](http://blog.cartodb.com/free-your-maps-web-mercator/) sobre projecciones en CartoDB.
-* About [*Gists*](https://help.github.com/categories/gists/) y [*Bl.ocks*](https://bl.ocks.org/-/about), herramientas para crear ejemplos.
+* Sobre [*Gists*](https://help.github.com/categories/gists/) y [*Bl.ocks*](https://bl.ocks.org/-/about), herramientas para crear ejemplos.
 
 ### Bl.ocks
 
