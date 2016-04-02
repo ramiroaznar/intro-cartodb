@@ -1,21 +1,28 @@
 # Introducción a CartoDB
-![CartoDB Logo](/img/logo.png)
+![CartoDB Logo](/img/logo.png =100x100)
 
 ## Cursos y tutoriales
 
 ### CartoDB Map Academy
 
 #### Nivel Principiante
+
 * [*Online Mapping for Beginners*](http://academy.cartodb.com/courses/beginners-course/).
 * [*Introduction to Map Design*](http://academy.cartodb.com/courses/design-for-beginners/).
 * [*SQL and PostGIS in CartoDB*](http://academy.cartodb.com/courses/sql-postgis/).
 * [*Academy Lite*](http://academy.cartodb.com/courses/academy-lite/).
+
 #### Nivel Intermedio
+
 * [*CartoDB.js from the ground up*](http://academy.cartodb.com/courses/cartodbjs-ground-up/).
 * [*Intermediate Map Design*](http://academy.cartodb.com/courses/intermediate-design/).
+
 #### Nivel Avanzado
+
 * [*CartoDB.js and External APIs*](http://academy.cartodb.com/courses/cartodbjs-and-external-apis/).
+
 #### Bonus
+
 * [*Community Lessons and Tutorials*](http://academy.cartodb.com/courses/community/).
 
 ### SQL
