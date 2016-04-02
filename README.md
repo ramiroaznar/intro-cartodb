@@ -44,20 +44,23 @@
 * [*Javascript*](https://www.codecademy.com/learn/javascript) de **Codecademy**.
 * [*Learn Javascript*](https://www.codeschool.com/learn/javascript) de **Udemy**.
 * [*Eloquent Javascript*](https://www.udemy.com/understand-javascript/) de **Udemy** (de pago, puedes ver las 3 primeras horas y media [aquí](https://www.youtube.com/watch?v=Bv_5Zv5c-Ts)).
-* Javascript para Pogramadores GIS: Módulos [*I*](https://www.youtube.com/watch?v=_qFvPJHGuCw), [*II*](https://www.youtube.com/watch?v=UEQpIkrQv78), [*III*](https://www.youtube.com/watch?v=1kVJDyx5FK8),  [*IV*](https://www.youtube.com/watch?v=UQXEmqSOQK8), [*V*](https://www.youtube.com/watch?v=TW7lr0QDNd0) y [*APIs de Mapas*](https://www.youtube.com/watch?v=23X7GqLi5oQ) de **Geospatial Training**.
+* *Javascript para Pogramadores GIS: Módulos* [*I*](https://www.youtube.com/watch?v=_qFvPJHGuCw), [*II*](https://www.youtube.com/watch?v=UEQpIkrQv78), [*III*](https://www.youtube.com/watch?v=1kVJDyx5FK8),  [*IV*](https://www.youtube.com/watch?v=UQXEmqSOQK8), [*V*](https://www.youtube.com/watch?v=TW7lr0QDNd0) y [*APIs de Mapas*](https://www.youtube.com/watch?v=23X7GqLi5oQ) de **Geospatial Training**.
 
-## Leaflet
+## Material adicional
+
+### Leaflet
 
 * [*Leaflet*](http://leafletjs.com/).
 * [*Tutoriales y ejemplos*](http://leafletjs.com/examples.html).
 * [*Leaflet: Make a Web Map!*](http://maptimeboston.github.io/leaflet-intro/) de **Map Time Boston**.
+* [*Leaflet Provider Demo*](http://leaflet-extras.github.io/leaflet-providers/preview/), para testear basemaps.
 
-## Dónde encontrar ayuda
+### Dónde encontrar ayuda
 
 * [*GIS Stack Exchange*](http://gis.stackexchange.com/questions/tagged/cartodb) con el tag "cartodb" (junto a otros más específicos como "cartodbjs", "sql", "postgis", "cartocss"...).
 * [*Grupo de Google*](https://groups.google.com/forum/#!forum/cartodb).
 
-## Bonus
+### Bonus
 
 * [*mapschool: a free introduction to geo*](http://mapschool.io/), una intro al mundo GIS.
 * [*Slippy map tilenames*](http://wiki.openstreetmap.org/wiki/Slippy_map_tilenames) sobre slippy maps y tiles.
@@ -67,7 +70,7 @@
 * [*Free your maps from Web Mercator*](http://blog.cartodb.com/free-your-maps-web-mercator/) sobre projecciones en CartoDB.
 * About [*Gists*](hhttps://help.github.com/categories/gists/) y [*Bl.ocks*](https://bl.ocks.org/-/about), herramientas para crear ejemplos.
 
-## Bl.ocks
+### Bl.ocks
 
 * [*Oriol*](http://bl.ocks.org/oriolbx).
 * [*Ernesto*](http://bl.ocks.org/ernesmb).
