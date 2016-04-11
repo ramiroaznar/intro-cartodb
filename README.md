@@ -68,7 +68,6 @@
 * [*Slippy map tilenames*](http://wiki.openstreetmap.org/wiki/Slippy_map_tilenames) sobre slippy maps y tiles.
 * [*How web maps work*](https://www.mapbox.com/help/how-web-maps-work/), cómo funcionan los mapas web.
 * [*CartoDB Basemaps*](http://bl.ocks.org/Xatpy/raw/854297419bd7eb3421d0/), lista y visualización de los mapas propios de CartoDB.
-* [*mapschool: a free introduction to geo*](http://mapschool.io/).
 * [*Free your maps from Web Mercator*](http://blog.cartodb.com/free-your-maps-web-mercator/) sobre projecciones en CartoDB.
 * Sobre [*Gists*](https://help.github.com/categories/gists/) y [*Bl.ocks*](https://bl.ocks.org/-/about), herramientas para crear ejemplos.
 
