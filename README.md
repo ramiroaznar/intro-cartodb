@@ -39,7 +39,7 @@
 
 ### CartoCSS
 
-* [CartoCSS](https://www.mapbox.com/tilemill/docs/manual/carto/) de **Mapbox**.
+* [CartoCSS](http://docs.cartodb.com/cartodb-platform/cartocss/), documentación para estilizar mapas de **CartoDB**.
 
 ### Javascript
 
