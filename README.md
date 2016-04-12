@@ -7,27 +7,32 @@
 
 #### Nivel Principiante
 
-* [*Online Mapping for Beginners*](http://academy.cartodb.com/courses/beginners-course/).
-* [*Introduction to Map Design*](http://academy.cartodb.com/courses/design-for-beginners/).
-* [*SQL and PostGIS in CartoDB*](http://academy.cartodb.com/courses/sql-postgis/).
-* [*Academy Lite*](http://academy.cartodb.com/courses/academy-lite/).
+* [Online Mapping for Beginners](http://academy.cartodb.com/courses/beginners-course/).
+* [Introduction to Map Design](http://academy.cartodb.com/courses/design-for-beginners/).
+* [SQL and PostGIS in CartoDB](http://academy.cartodb.com/courses/sql-postgis/).
+* [Academy Lite](http://academy.cartodb.com/courses/academy-lite/).
 
 #### Nivel Intermedio
 
-* [*CartoDB.js from the ground up*](http://academy.cartodb.com/courses/cartodbjs-ground-up/).
-* [*Intermediate Map Design*](http://academy.cartodb.com/courses/intermediate-design/).
+* [CartoDB.js from the ground up](http://academy.cartodb.com/courses/cartodbjs-ground-up/).
+* [Intermediate Map Design](http://academy.cartodb.com/courses/intermediate-design/).
 
 #### Nivel Avanzado
 
-* [*CartoDB.js and External APIs*](http://academy.cartodb.com/courses/cartodbjs-and-external-apis/).
+* [CartoDB.js and External APIs](http://academy.cartodb.com/courses/cartodbjs-and-external-apis/).
 
 #### Bonus
 
-* [*Community Lessons and Tutorials*](http://academy.cartodb.com/courses/community/).
+* [Community Lessons and Tutorials](http://academy.cartodb.com/courses/community/).
+
+#### Tutoriales
+
+* [Tutorials](http://docs.cartodb.com/tutorials/).
 
 ### SQL
 
 * [*Learn SQL*](https://www.codecademy.com/learn/learn-sql) de **Codecademy**.
+* [*SQL Tutorial*](http://www.w3schools.com/sql/default.asp) de **w3schools**.
 * [*Try SQL*](https://www.codeschool.com/courses/try-sql) & [*The Sequel to SQL*](https://www.codeschool.com/courses/the-sequel-to-sql) de **Code School**.
 * [*SQL for Newbs: Beginner Data Analysis*](https://www.udemy.com/sql-for-newbs/) de **Udemy** (de pago).
 * [*The Complete SQL Bootcamp*](https://www.udemy.com/the-complete-sql-bootcamp/) de **Udemy** (de pago).
@@ -57,10 +62,12 @@
 * [*Leaflet: Make a Web Map!*](http://maptimeboston.github.io/leaflet-intro/) de **Map Time Boston**.
 * [Leaflet Provider Demo](http://leaflet-extras.github.io/leaflet-providers/preview/), para testear basemaps.
 
-### Dónde encontrar ayuda
+### Proyecciones cartográficas
 
-* [GIS Stack Exchange](http://gis.stackexchange.com/questions/tagged/cartodb) con el tag "cartodb" (junto a otros más específicos como "cartodbjs", "sql", "postgis", "cartocss"...).
-* [Grupo de Google](https://groups.google.com/forum/#!forum/cartodb).
+* [Proyección cartográfica](https://es.wikipedia.org/wiki/Proyecci%C3%B3n_cartogr%C3%A1fica) en **Wikipedia**.
+* Sobre [`geograpy` type](http://workshops.boundlessgeo.com/postgis-intro/geography.html) en **PostGIS** y **postgres**.
+* [*Projections, the_geom and the_geom_webmercator*](http://docs.cartodb.com/tutorials/projections/), tutorial sobre proyecciones en CartoDB.
+* [*Free your maps from Web Mercator*](http://blog.cartodb.com/free-your-maps-web-mercator/) sobre projecciones en CartoDB.
 
 ### Bonus
 
@@ -68,7 +75,6 @@
 * [*Slippy map tilenames*](http://wiki.openstreetmap.org/wiki/Slippy_map_tilenames) sobre slippy maps y tiles.
 * [*How web maps work*](https://www.mapbox.com/help/how-web-maps-work/), cómo funcionan los mapas web.
 * [*CartoDB Basemaps*](http://bl.ocks.org/Xatpy/raw/854297419bd7eb3421d0/), lista y visualización de los mapas propios de CartoDB.
-* [*Free your maps from Web Mercator*](http://blog.cartodb.com/free-your-maps-web-mercator/) sobre projecciones en CartoDB.
 * Sobre [*Gists*](https://help.github.com/categories/gists/) y [*Bl.ocks*](https://bl.ocks.org/-/about), herramientas para crear ejemplos.
 
 ### Bl.ocks
@@ -82,6 +88,11 @@
 * [Javier Álvarez](http://bl.ocks.org/xavijam).
 * [Daniel](http://bl.ocks.org/danicarrion).
 * [Ramiro](http://bl.ocks.org/ramiroaznar).
+
+### Dónde encontrar ayuda
+
+* [GIS Stack Exchange](http://gis.stackexchange.com/questions/tagged/cartodb) con el tag "cartodb" (junto a otros más específicos como "cartodbjs", "sql", "postgis", "cartocss"...).
+* [Grupo de Google](https://groups.google.com/forum/#!forum/cartodb).
 
 
 
