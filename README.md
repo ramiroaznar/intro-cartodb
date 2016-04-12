@@ -89,7 +89,15 @@
 * [Daniel](http://bl.ocks.org/danicarrion).
 * [Ramiro](http://bl.ocks.org/ramiroaznar).
 
-### Dónde encontrar ayuda
+### Libros recomendados
+
+* [SQL in 10 Minutes, Sams Teach Yourself](http://www.amazon.com/Minutes-Sams-Teach-Yourself-Edition/dp/0672336073).
+* [PostGIS in Action](http://www.amazon.com/PostGIS-Action-2nd-Regina-Obe/dp/1617291390/ref=sr_1_1?s=books&ie=UTF8&qid=1460456472&sr=1-1&keywords=postgis+in+action).
+* [Leaflet.js Essentials](http://www.amazon.com/Leaflet-js-Essentials-Paul-Crickard-III/dp/1783554819/ref=sr_1_1?s=books&ie=UTF8&qid=1460456499&sr=1-1&keywords=leaflet+essentials).
+* [Eloquent Javascript](http://www.amazon.com/Eloquent-JavaScript-Modern-Introduction-Programming/dp/1593275846/ref=sr_1_1?s=books&ie=UTF8&qid=1460456527&sr=1-1&keywords=eloquent+javascript).
+* [Javascript: The Good parts](http://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742).
+
+### Dónde encontrar más ayuda
 
 * [GIS Stack Exchange](http://gis.stackexchange.com/questions/tagged/cartodb) con el tag "cartodb" (junto a otros más específicos como "cartodbjs", "sql", "postgis", "cartocss"...).
 * [Grupo de Google](https://groups.google.com/forum/#!forum/cartodb).
