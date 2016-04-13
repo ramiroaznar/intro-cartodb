@@ -85,7 +85,7 @@
 * Sobre [`geograpy` type](http://workshops.boundlessgeo.com/postgis-intro/geography.html) en **PostGIS** y **postgres**.
 * [*Projections, the_geom and the_geom_webmercator*](http://docs.cartodb.com/tutorials/projections/), tutorial sobre proyecciones en CartoDB.
 * [*Free your maps from Web Mercator*](http://blog.cartodb.com/free-your-maps-web-mercator/) sobre projecciones en CartoDB.
-* [*Map Projections: a working manual*](http://egsc.usgs.gov/isb//pubs/MapProjections/projections.pdf), guía para elegir la "mejor" proyección por **USGS**.
+* [*Map Projections: a working manual*](http://egsc.usgs.gov/isb//pubs/MapProjections/projections.pdf), guía para elegir la "mejor" proyección por **USGS** y [*An Album of Map Projections*](http://pubs.usgs.gov/pp/1453/report.pdf) también del **USGS**, un albúm de proyecciones.
 
 ### 2.3. Bonus
 
