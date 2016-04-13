@@ -1,5 +1,5 @@
 # Introducción a CartoDB
-<img src="/img/header.png" width="auto" height="100%">
+<img src="/img/header.png" width="100%" height="auto">
 
 ## 1. Cursos y tutoriales
 
