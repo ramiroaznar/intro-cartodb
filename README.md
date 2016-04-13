@@ -41,7 +41,7 @@
 ### HTML, CSS y Javascript
 
 * [*Curso de HTML5 desde cero*](https://www.gitbook.com/book/hhkaos/cursohtml5desdecero/details) de **Raúl Jiménez Ortega** (en construcción).
-* [*Introducción al Desarrollo Web Responsive con HTML y CSS*](http://www.domestika.org/es/courses/74-introduccion-al-desarrollo-web-responsive-con-html-y-css) de **Domestika**.
+* [*Introducción al Desarrollo Web Responsive con HTML y CSS*](http://www.domestika.org/es/courses/74-introduccion-al-desarrollo-web-responsive-con-html-y-css) de **Domestika** (de pago).
 
 ### CartoCSS
 
@@ -53,6 +53,11 @@
 * [*Learn Javascript*](https://www.codeschool.com/learn/javascript) de **Code School**.
 * [*Eloquent Javascript*](https://www.udemy.com/understand-javascript/) de **Udemy** (de pago, puedes ver las 3 primeras horas y media [aquí](https://www.youtube.com/watch?v=Bv_5Zv5c-Ts)).
 * *Javascript para Pogramadores GIS: Módulos* [*I*](https://www.youtube.com/watch?v=_qFvPJHGuCw), [*II*](https://www.youtube.com/watch?v=UEQpIkrQv78), [*III*](https://www.youtube.com/watch?v=1kVJDyx5FK8),  [*IV*](https://www.youtube.com/watch?v=UQXEmqSOQK8), [*V*](https://www.youtube.com/watch?v=TW7lr0QDNd0) y [*APIs de Mapas*](https://www.youtube.com/watch?v=23X7GqLi5oQ) de **Geospatial Training**.
+
+### jQuery
+
+* [*jQuery*](https://www.codecademy.com/learn/jquery) de **Codecademy**.
+* [*jQuery Tutorial*](https://www.codeschool.com/courses/try-jquery) de **Code School**.
 
 ## Material adicional
 
