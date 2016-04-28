@@ -94,6 +94,7 @@
 ### 2.3. Bonus
 
 * [*mapschool: a free introduction to geo*](http://mapschool.io/), una intro al mundo GIS.
+* [ColorBrewer](http://colorbrewer2.org/) y [esquemas y rampas consejos](http://colorbrewer2.org/learnmore/schemes_full.html), herramientas y consejos para colorear tus mapas. 
 * [*Slippy map tilenames*](http://wiki.openstreetmap.org/wiki/Slippy_map_tilenames) sobre slippy maps y tiles.
 * [*How web maps work*](https://www.mapbox.com/help/how-web-maps-work/), cómo funcionan los mapas web.
 * [CartoDB Basemaps](http://bl.ocks.org/Xatpy/raw/854297419bd7eb3421d0/), lista y visualización de los mapas propios de CartoDB.
