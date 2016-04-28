@@ -97,6 +97,7 @@
 * [ColorBrewer](http://colorbrewer2.org/) y [esquemas y rampas consejos](http://colorbrewer2.org/learnmore/schemes_full.html), herramientas y consejos para colorear tus mapas. 
 * [*Slippy map tilenames*](http://wiki.openstreetmap.org/wiki/Slippy_map_tilenames) sobre slippy maps y tiles.
 * [*How web maps work*](https://www.mapbox.com/help/how-web-maps-work/), cómo funcionan los mapas web.
+* [Survey of the Best Online Mapping Tools for Web Developers: The Roadmap to Roadmaps](https://www.toptal.com/web/the-roadmap-to-roadmaps-a-survey-of-the-best-online-mapping-tools), sobre *online mapping* en **Toptal**.
 * [CartoDB Basemaps](http://bl.ocks.org/Xatpy/raw/854297419bd7eb3421d0/), lista y visualización de los mapas propios de CartoDB.
 * [GeoJSON Specification](http://geojson.org/geojson-spec.html) sobre el formato `GeoJSON`.
 * Sobre [Gists](https://help.github.com/categories/gists/) y [Bl.ocks](https://bl.ocks.org/-/about), herramientas para crear ejemplos.
