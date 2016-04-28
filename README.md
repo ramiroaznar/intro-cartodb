@@ -83,6 +83,7 @@
 
 * [Proyección cartográfica](https://es.wikipedia.org/wiki/Proyecci%C3%B3n_cartogr%C3%A1fica) en **Wikipedia**.
 * [Geometric Aspects of Mapping](http://kartoweb.itc.nl/geometrics/Introduction/introduction.html) sobre la geometría y la matemática detrás de las proyecciones cartográficas en **KartoWeb**.
+* [Cartographical Map Projections] (http://www.progonos.com/furuti/MapProj/Normal/TOC/cartTOC.html) en la web de **Progonos**.
 * Sobre [`geograpy` type](http://workshops.boundlessgeo.com/postgis-intro/geography.html) en **PostGIS** y **postgres**.
 * [*Projections, the_geom and the_geom_webmercator*](http://docs.cartodb.com/tutorials/projections/), tutorial sobre proyecciones en CartoDB.
 * [*Free your maps from Web Mercator*](http://blog.cartodb.com/free-your-maps-web-mercator/) sobre projecciones en CartoDB.
