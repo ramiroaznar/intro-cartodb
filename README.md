@@ -32,6 +32,7 @@
 ### 1.3. SQL
 
 * [*Learn SQL*](https://www.codecademy.com/learn/learn-sql) de **Codecademy**.
+* [*SQL: Table Transformation*](https://www.codecademy.com/learn/sql-table-transformation) de **Codecademy**.
 * [*SQL Tutorial*](http://www.w3schools.com/sql/default.asp) de **w3schools**.
 * [*Try SQL*](https://www.codeschool.com/courses/try-sql) y [*The Sequel to SQL*](https://www.codeschool.com/courses/the-sequel-to-sql) de **Code School**.
 * [*SQL for Newbs: Beginner Data Analysis*](https://www.udemy.com/sql-for-newbs/) de **Udemy** (de pago).
@@ -95,8 +96,9 @@
 * [*mapschool: a free introduction to geo*](http://mapschool.io/), una intro al mundo GIS.
 * [*Slippy map tilenames*](http://wiki.openstreetmap.org/wiki/Slippy_map_tilenames) sobre slippy maps y tiles.
 * [*How web maps work*](https://www.mapbox.com/help/how-web-maps-work/), cómo funcionan los mapas web.
-* [*CartoDB Basemaps*](http://bl.ocks.org/Xatpy/raw/854297419bd7eb3421d0/), lista y visualización de los mapas propios de CartoDB.
-* Sobre [*Gists*](https://help.github.com/categories/gists/) y [*Bl.ocks*](https://bl.ocks.org/-/about), herramientas para crear ejemplos.
+* [CartoDB Basemaps](http://bl.ocks.org/Xatpy/raw/854297419bd7eb3421d0/), lista y visualización de los mapas propios de CartoDB.
+* [GeoJSON Specification](http://geojson.org/geojson-spec.html) sobre el formato `GeoJSON`.
+* Sobre [Gists](https://help.github.com/categories/gists/) y [Bl.ocks](https://bl.ocks.org/-/about), herramientas para crear ejemplos.
 
 ### 2.4. Bl.ocks
 
