@@ -88,21 +88,21 @@
 * Sobre [`geograpy` type](http://workshops.boundlessgeo.com/postgis-intro/geography.html) en **PostGIS** y **postgres**.
 * [*Projections, the_geom and the_geom_webmercator*](http://docs.cartodb.com/tutorials/projections/), tutorial sobre proyecciones en CartoDB.
 * [*Free your maps from Web Mercator*](http://blog.cartodb.com/free-your-maps-web-mercator/) sobre projecciones en CartoDB.
-* [*Map Projections: a working manual*](http://egsc.usgs.gov/isb//pubs/MapProjections/projections.pdf), guía para elegir la "mejor" proyección por **USGS** y [*An Album of Map Projections*](http://pubs.usgs.gov/pp/1453/report.pdf) también del **USGS**, un albúm de proyecciones.
 
-
-### 2.3. Bonus
+### 2.3. GIS & web mapping
 
 * [*mapschool: a free introduction to geo*](http://mapschool.io/), una intro al mundo GIS.
 * [ColorBrewer](http://colorbrewer2.org/) y [esquemas y rampas consejos](http://colorbrewer2.org/learnmore/schemes_full.html), herramientas y consejos para colorear tus mapas. 
 * [*Slippy map tilenames*](http://wiki.openstreetmap.org/wiki/Slippy_map_tilenames) sobre slippy maps y tiles.
 * [*How web maps work*](https://www.mapbox.com/help/how-web-maps-work/), cómo funcionan los mapas web.
+* [*Bing Maps Tile System*](https://msdn.microsoft.com/en-us/library/bb259689.aspx), cómo el sistema de tiles en **Bing Maps**.
 * [Survey of the Best Online Mapping Tools for Web Developers: The Roadmap to Roadmaps](https://www.toptal.com/web/the-roadmap-to-roadmaps-a-survey-of-the-best-online-mapping-tools), sobre *online mapping* en **Toptal**.
 * [CartoDB Basemaps](http://bl.ocks.org/Xatpy/raw/854297419bd7eb3421d0/), lista y visualización de los mapas propios de CartoDB.
 * [GeoJSON Specification](http://geojson.org/geojson-spec.html) sobre el formato `GeoJSON`.
-* Sobre [Gists](https://help.github.com/categories/gists/) y [Bl.ocks](https://bl.ocks.org/-/about), herramientas para crear ejemplos.
 
 ### 2.4. Bl.ocks
+
+* Sobre [Gists](https://help.github.com/categories/gists/) y [Bl.ocks](https://bl.ocks.org/-/about), herramientas para crear ejemplos.
 
 * [Oriol](http://bl.ocks.org/oriolbx).
 * [Ernesto](http://bl.ocks.org/ernesmb).
