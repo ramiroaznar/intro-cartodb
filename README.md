@@ -37,6 +37,7 @@
 * [*Try SQL*](https://www.codeschool.com/courses/try-sql) y [*The Sequel to SQL*](https://www.codeschool.com/courses/the-sequel-to-sql) de **Code School**.
 * [*SQL for Newbs: Beginner Data Analysis*](https://www.udemy.com/sql-for-newbs/) de **Udemy** (de pago).
 * [*The Complete SQL Bootcamp*](https://www.udemy.com/the-complete-sql-bootcamp/) de **Udemy** (de pago).
+* [*SQL School*](https://sqlschool.modeanalytics.com/) de **SQL School**.
 
 ### 1.4. PostGIS y PostgreSQL
 
