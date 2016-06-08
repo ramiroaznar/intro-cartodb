@@ -24,6 +24,7 @@
 #### 1.1.4. Bonus
 
 * [Community Lessons and Tutorials](http://academy.cartodb.com/courses/community/).
+* [Workshops and talks](http://cartodb.github.io/training/).
 
 ### 1.2. Tutoriales de CartoDB
 
