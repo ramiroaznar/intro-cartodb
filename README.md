@@ -1,6 +1,6 @@
 # Introducción a CartoDB
 <img src="/img/header.png" width="100%" height="auto">
-
+<br>
 ## 1. Cursos y tutoriales
 
 ### 1.1. CartoDB Map Academy
