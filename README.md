@@ -1,9 +1,9 @@
-# Introducción a CartoDB
+# Introducción a CARTO
 <img src="/img/header.png" width="100%" height="auto">
 
 ## 1. Cursos y tutoriales
 
-### 1.1. CartoDB Map Academy
+### 1.1. CARTO Map Academy
 
 #### 1.1.1. Nivel Principiante
 
@@ -24,9 +24,9 @@
 #### 1.1.4. Bonus
 
 * [Community Lessons and Tutorials](http://academy.cartodb.com/courses/community/).
-* [Workshops and talks](http://cartodb.github.io/training/).
+* [Workshops and talks](http://cartodb.github.io/training/), IMPRESCINDIBLE.
 
-### 1.2. Tutoriales de CartoDB
+### 1.2. Tutoriales de CARTO
 
 * [Tutorials](http://docs.cartodb.com/tutorials/).
 
@@ -59,7 +59,9 @@
 
 ### 1.6. CartoCSS
 
-* [CartoCSS](http://docs.cartodb.com/cartodb-platform/cartocss/), documentación para estilizar mapas de **CartoDB**.
+* [CartoCSS](http://docs.cartodb.com/cartodb-platform/cartocss/), documentación para estilizar mapas de **CARTO**.
+* [CCST](http://cartodb.github.io/labs-colorscales/), herramienta para estilizar utilizando paletas de CartoColors y los *breaks* adecuados según la distribución de nuestros datos (númericos).
+* [CartoAssets](http://cartodb.github.io/CartoAssets/styleguide/), guía de estilos de **CARTO**.
 
 ### 1.7. Javascript
 
@@ -88,7 +90,7 @@
 * [Geometric Aspects of Mapping](http://kartoweb.itc.nl/geometrics/Introduction/introduction.html) sobre la geometría y la matemática detrás de las proyecciones cartográficas en **KartoWeb**.
 * [Cartographical Map Projections] (http://www.progonos.com/furuti/MapProj/Normal/TOC/cartTOC.html) en la web de **Progonos**.
 * Sobre [`geograpy` type](http://workshops.boundlessgeo.com/postgis-intro/geography.html) en **PostGIS** y **postgres**.
-* [*Projections, the_geom and the_geom_webmercator*](http://docs.cartodb.com/tutorials/projections/), tutorial sobre proyecciones en CartoDB.
+* [*Projections, the_geom and the_geom_webmercator*](http://docs.cartodb.com/tutorials/projections/), tutorial sobre proyecciones en CARTO.
 * [*Free your maps from Web Mercator*](http://blog.cartodb.com/free-your-maps-web-mercator/) sobre projecciones en CartoDB.
 
 ### 2.3. GIS & web mapping
@@ -99,22 +101,22 @@
 * [*How web maps work*](https://www.mapbox.com/help/how-web-maps-work/), cómo funcionan los mapas web.
 * [*Bing Maps Tile System*](https://msdn.microsoft.com/en-us/library/bb259689.aspx), cómo el sistema de tiles en **Bing Maps**.
 * [Survey of the Best Online Mapping Tools for Web Developers: The Roadmap to Roadmaps](https://www.toptal.com/web/the-roadmap-to-roadmaps-a-survey-of-the-best-online-mapping-tools), sobre *online mapping* en **Toptal**.
-* [CartoDB Basemaps](http://bl.ocks.org/Xatpy/raw/854297419bd7eb3421d0/), lista y visualización de los mapas propios de CartoDB.
+* [CARTO Basemaps](http://bl.ocks.org/Xatpy/raw/854297419bd7eb3421d0/), lista y visualización de los mapas propios de CartoDB.
 * [GeoJSON Specification](http://geojson.org/geojson-spec.html) sobre el formato `GeoJSON`.
 
 ### 2.4. Bl.ocks
 
 * Sobre [Gists](https://help.github.com/categories/gists/) y [Bl.ocks](https://bl.ocks.org/-/about), herramientas para crear ejemplos.
 
-* [Oriol](http://bl.ocks.org/oriolbx).
-* [Ernesto](http://bl.ocks.org/ernesmb).
-* [Jorge](http://bl.ocks.org/jsanz).
-* [Carla](http://bl.ocks.org/iriberri).
-* [Andrew](http://bl.ocks.org/andrewxhill).
-* [Javier Santana](http://bl.ocks.org/javisantana).
-* [Javier Álvarez](http://bl.ocks.org/xavijam).
-* [Daniel](http://bl.ocks.org/danicarrion).
-* [Ramiro](http://bl.ocks.org/ramiroaznar).
+* [Oriol](http://bl.ocks.org/oriolbx)
+* [Ernesto](http://bl.ocks.org/ernesmb)
+* [Jorge](http://bl.ocks.org/jsanz)
+* [Carla](http://bl.ocks.org/iriberri)
+* [Andrew](http://bl.ocks.org/andrewxhill)
+* [Javier Santana](http://bl.ocks.org/javisantana)
+* [Javier Álvarez](http://bl.ocks.org/xavijam)
+* [Daniel](http://bl.ocks.org/danicarrion)
+* [Ramiro](http://bl.ocks.org/ramiroaznar)
 
 ### 2.5. Libros recomendados
 
@@ -128,3 +130,4 @@
 
 * [GIS Stack Exchange](http://gis.stackexchange.com/questions/tagged/cartodb) con el tag "cartodb" (junto a otros más específicos como "cartodbjs", "sql", "postgis", "cartocss"...).
 * [Grupo de Google](https://groups.google.com/forum/#!forum/cartodb).
+* Dispara tus dudas/problemas a support@carto.com
