@@ -9,7 +9,7 @@
 
 * [Online Mapping for Beginners](http://academy.cartodb.com/courses/beginners-course/).
 * [Introduction to Map Design](http://academy.cartodb.com/courses/design-for-beginners/).
-* [SQL and PostGIS in CartoDB](http://academy.cartodb.com/courses/sql-postgis/).
+* [SQL and PostGIS in CARTO](http://academy.cartodb.com/courses/sql-postgis/).
 * [Academy Lite](http://academy.cartodb.com/courses/academy-lite/).
 
 #### 1.1.2. Nivel Intermedio
