@@ -91,7 +91,7 @@
 * [Cartographical Map Projections] (http://www.progonos.com/furuti/MapProj/Normal/TOC/cartTOC.html) en la web de **Progonos**.
 * Sobre [`geograpy` type](http://workshops.boundlessgeo.com/postgis-intro/geography.html) en **PostGIS** y **postgres**.
 * [*Projections, the_geom and the_geom_webmercator*](http://docs.cartodb.com/tutorials/projections/), tutorial sobre proyecciones en CARTO.
-* [*Free your maps from Web Mercator*](http://blog.cartodb.com/free-your-maps-web-mercator/) sobre projecciones en CartoDB.
+* [*Free your maps from Web Mercator*](http://blog.cartodb.com/free-your-maps-web-mercator/) sobre projecciones en CARTO.
 
 ### 2.3. GIS & web mapping
 
@@ -101,7 +101,7 @@
 * [*How web maps work*](https://www.mapbox.com/help/how-web-maps-work/), cómo funcionan los mapas web.
 * [*Bing Maps Tile System*](https://msdn.microsoft.com/en-us/library/bb259689.aspx), cómo el sistema de tiles en **Bing Maps**.
 * [Survey of the Best Online Mapping Tools for Web Developers: The Roadmap to Roadmaps](https://www.toptal.com/web/the-roadmap-to-roadmaps-a-survey-of-the-best-online-mapping-tools), sobre *online mapping* en **Toptal**.
-* [CARTO Basemaps](http://bl.ocks.org/Xatpy/raw/854297419bd7eb3421d0/), lista y visualización de los mapas propios de CartoDB.
+* [CARTO Basemaps](http://bl.ocks.org/Xatpy/raw/854297419bd7eb3421d0/), lista y visualización de los mapas propios de CARTO.
 * [GeoJSON Specification](http://geojson.org/geojson-spec.html) sobre el formato `GeoJSON`.
 
 ### 2.4. Bl.ocks
