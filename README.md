@@ -39,6 +39,7 @@
 * [*SQL for Newbs: Beginner Data Analysis*](https://www.udemy.com/sql-for-newbs/) de **Udemy** (de pago).
 * [*The Complete SQL Bootcamp*](https://www.udemy.com/the-complete-sql-bootcamp/) de **Udemy** (de pago).
 * [*SQL School*](https://sqlschool.modeanalytics.com/) de **SQL School**.
+* [*A beginners guide to thinking in SQL*](http://www.sohamkamani.com/blog/2016/07/07/a-beginners-guide-to-sql/?utm_content=bufferdef4e&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer), una guía para pensar en SQL.
 
 ### 1.4. PostGIS y PostgreSQL
 
@@ -118,15 +119,7 @@
 * [Daniel](http://bl.ocks.org/danicarrion)
 * [Ramiro](http://bl.ocks.org/ramiroaznar)
 
-### 2.5. Libros recomendados
-
-* [SQL in 10 Minutes, Sams Teach Yourself](http://www.amazon.com/Minutes-Sams-Teach-Yourself-Edition/dp/0672336073).
-* [PostGIS in Action](http://www.amazon.com/PostGIS-Action-2nd-Regina-Obe/dp/1617291390/ref=sr_1_1?s=booksyie=UTF8yqid=1460456472ysr=1-1ykeywords=postgis+in+action).
-* [Leaflet.js Essentials](http://www.amazon.com/Leaflet-js-Essentials-Paul-Crickard-III/dp/1783554819/ref=sr_1_1?s=booksyie=UTF8yqid=1460456499ysr=1-1ykeywords=leaflet+essentials).
-* [Eloquent Javascript](http://www.amazon.com/Eloquent-JavaScript-Modern-Introduction-Programming/dp/1593275846/ref=sr_1_1?s=booksyie=UTF8yqid=1460456527ysr=1-1ykeywords=eloquent+javascript).
-* [Javascript: The Good parts](http://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742).
-
-### 2.6. Dónde encontrar más ayuda
+### 2.5. Dónde encontrar más ayuda
 
 * [GIS Stack Exchange](http://gis.stackexchange.com/questions/tagged/cartodb) con el tag "cartodb" (junto a otros más específicos como "cartodbjs", "sql", "postgis", "cartocss"...).
 * [Grupo de Google](https://groups.google.com/forum/#!forum/cartodb).
