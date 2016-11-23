@@ -26,9 +26,9 @@
 * [Community Lessons and Tutorials](http://academy.cartodb.com/courses/community/).
 * [Workshops and talks](http://cartodb.github.io/training/), IMPRESCINDIBLE.
 
-### 1.2. Tutoriales de CARTO
+### 1.2. LEARN
 
-* [Tutorials](http://docs.cartodb.com/tutorials/).
+* [Guides](https://carto.com/learn/guides).
 
 ### 1.3. SQL
 
