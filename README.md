@@ -69,6 +69,7 @@
 * [*Javascript*](https://www.codecademy.com/learn/javascript) de **Codecademy**.
 * [*Learn Javascript*](https://www.codeschool.com/learn/javascript) de **Code School**.
 * [*Eloquent Javascript*](https://www.udemy.com/understand-javascript/) de **Udemy** (de pago, puedes ver las 3 primeras horas y media [aquí](https://www.youtube.com/watch?v=Bv_5Zv5c-Ts)).
+* [JavaScript Tutorial](https://www.scaler.com/topics/javascript/) de **Scaler Topics**
 * *Javascript para Pogramadores GIS: Módulos* [*I*](https://www.youtube.com/watch?v=_qFvPJHGuCw), [*II*](https://www.youtube.com/watch?v=UEQpIkrQv78), [*III*](https://www.youtube.com/watch?v=1kVJDyx5FK8),  [*IV*](https://www.youtube.com/watch?v=UQXEmqSOQK8), [*V*](https://www.youtube.com/watch?v=TW7lr0QDNd0) y [*APIs de Mapas*](https://www.youtube.com/watch?v=23X7GqLi5oQ) de **Geospatial Training**.
 
 ### 1.8. jQuery
