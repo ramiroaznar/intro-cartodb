@@ -41,6 +41,8 @@
 * [*SQL School*](https://sqlschool.modeanalytics.com/) de **SQL School**.
 * [*A beginners guide to thinking in SQL*](http://www.sohamkamani.com/blog/2016/07/07/a-beginners-guide-to-sql/?utm_content=bufferdef4e&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer), una guía para pensar en SQL.
 * [Basic to advanced concepts of SQL with examples](https://www.scaler.com/topics/sql/) de  **Scaler Topics**.
+* [Features of SQL](https://www.interviewbit.com/blog/features-of-sql/)
+
 
 ### 1.4. PostGIS y PostgreSQL
 
