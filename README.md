@@ -56,6 +56,7 @@
 
 * [*HTML y CSS*](https://www.codecademy.com/learn/web) de **Codecademy**.
 * [*CSS Tutorial*](http://www.w3schools.com/css/) de **w3schools**.
+* [*Learn CSS in Detail*](https://www.scaler.com/topics/css/) de **Scaler Topics**
 * [*Curso de HTML5 desde cero*](https://www.gitbook.com/book/hhkaos/cursohtml5desdecero/details) de **Raúl Jiménez Ortega** (en construcción).
 * [*Introducción al Desarrollo Web Responsive con HTML y CSS*](http://www.domestika.org/es/courses/74-introduccion-al-desarrollo-web-responsive-con-html-y-css) de **Domestika** (de pago).
 
