@@ -41,6 +41,7 @@
 * [*SQL School*](https://sqlschool.modeanalytics.com/) de **SQL School**.
 * [*A beginners guide to thinking in SQL*](http://www.sohamkamani.com/blog/2016/07/07/a-beginners-guide-to-sql/?utm_content=bufferdef4e&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer), una guía para pensar en SQL.
 * [Basic to advanced concepts of SQL with examples](https://www.scaler.com/topics/sql/) de  **Scaler Topics**.
+* [Characteristics of SQL](https://www.interviewbit.com/blog/characteristics-of-sql/)
 
 ### 1.4. PostGIS y PostgreSQL
 
@@ -58,6 +59,7 @@
 * [*CSS Tutorial*](http://www.w3schools.com/css/) de **w3schools**.
 * [*Curso de HTML5 desde cero*](https://www.gitbook.com/book/hhkaos/cursohtml5desdecero/details) de **Raúl Jiménez Ortega** (en construcción).
 * [*Introducción al Desarrollo Web Responsive con HTML y CSS*](http://www.domestika.org/es/courses/74-introduccion-al-desarrollo-web-responsive-con-html-y-css) de **Domestika** (de pago).
+* [HTML Vs CSS](https://www.interviewbit.com/blog/difference-between-html-and-css/)
 
 ### 1.6. CartoCSS
 
